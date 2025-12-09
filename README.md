@@ -3,7 +3,7 @@ Building a modern data warehouse with SQL Server, including ETL processes, data 
 
 Welcome to the **Data Warehouse and Analytics Project** repository 🐱‍🏍
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.
-This project is inspired by a tutorial from Ajay Anand on YouTube.
+This project is inspired by YouTube Data With Baraa .
 Tutorial link: https://youtu.be/SSKVgrwhzus
 
 # ABOUT ME
